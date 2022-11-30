@@ -1,0 +1,13 @@
+name: operator_frog_client
+description: A thought experiment on writing a strange API for Dart.
+version: 0.1.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  http: ^0.13.5
+
+dev_dependencies:
+  very_good_analysis: ^3.1.0
